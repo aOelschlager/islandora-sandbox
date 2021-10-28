@@ -12,6 +12,10 @@
     ],
     "repositories": [
         {
+	        "type": "vcs",
+	        "url": "https://github.com/aOelschlager/islandora_install_profile_demo"
+	    },
+        {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
         }
