@@ -1,7 +1,11 @@
 {
-    "name": "islandora/islandora-sandbox",
+    "name": "aoelschlager/islandora-sandbox",
     "type": "project",
     "repositories" : [
+        {
+	    "type": "vcs",
+	    "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git"
+	    },
         {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
@@ -67,7 +71,7 @@
         }
     ],
     "require": {
-        "islandora/islandora_install_profile_demo": "dev-install-profile"
+        "aoelschlager/islandora_install_profile_demo": "dev-d9-update"
     },
     "require-dev": {
         "drupal/core-dev": "^8.9",
