@@ -3,8 +3,8 @@
     "type": "project",
     "repositories" : [
         {
-	    "type": "vcs",
-	    "url": "https://github.com/aOelschlager/islandora_install_profile_demo"
+	        "type": "vcs",
+	        "url": "https://github.com/aOelschlager/islandora_install_profile_demo"
 	    },
         {
             "type": "composer",
@@ -71,7 +71,7 @@
         }
     ],
     "require": {
-        "aoelschlager/islandora_install_profile_demo": "dev-d9-update"
+        "islandora/islandora_install_profile_demo": "dev-d9-update as dev-main"
     },
     "require-dev": {
         "drupal/core-dev": "^8.9",
