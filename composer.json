@@ -18,7 +18,7 @@
         },
         {
             "type": "git",
-            "url": "https://github.com/Islandora-Devops/islandora_install_profile_demo.git"
+            "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git"
         },
         {
             "type": "composer",
@@ -89,7 +89,7 @@
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-project-message": "^9.2",
         "drupal/core-recommended": "^9.2",
-        "islandora/islandora_install_profile_demo": "dev-drupal-9-patch"
+        "islandora/islandora_install_profile_demo": "dev-drupal-9-patch-dev as dev-drupal-9-patch"
     },
     "require-dev": {
         "drupal/twig_xdebug": "^1.2"
