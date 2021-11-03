@@ -8231,7 +8231,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git",
-                "reference": "8d690cb0a65608ad41f6d5f082624c8d3f028ced"
+                "reference": "ae70ad16ffd31edd0463ba408f18f8abf1309302"
             },
             "require": {
                 "asm89/stack-cors": "^1.3",
