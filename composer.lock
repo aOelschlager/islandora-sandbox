@@ -8227,10 +8227,10 @@
         },
         {
             "name": "islandora/islandora_install_profile_demo",
-            "version": "dev-drupal-9-patch",
+            "version": "dev-drupal-9-patch-dev",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Islandora-Devops/islandora_install_profile_demo.git",
+                "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git",
                 "reference": "8d690cb0a65608ad41f6d5f082624c8d3f028ced"
             },
             "require": {
@@ -14501,7 +14501,14 @@
             }
         }
     ],
-    "aliases": [],
+    "aliases": [        
+        {
+            "package": "islandora/islandora_install_profile_demo",
+            "version": "dev-drupal-9-patch-dev",
+            "alias": "dev-drupal-9-patch",
+            "alias_normalized": "dev-drupal-9-patch"
+        }
+    ],
     "minimum-stability": "dev",
     "stability-flags": {
         "islandora/islandora_install_profile_demo": 20
