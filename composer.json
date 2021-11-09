@@ -21,6 +21,10 @@
             "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git"
         },
         {
+            "type": "vcs",
+            "url": "https://github.com/aOelschlager/islandora_defaults.git"
+        },
+        {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
         },
