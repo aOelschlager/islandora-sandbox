@@ -8350,15 +8350,15 @@
         },
         {
             "name": "islandora/islandora_defaults",
-            "version": "2.0.1",
+            "version": "2.x-dev",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Islandora/islandora_defaults.git",
-                "reference": "f66651bedcea6378604fa103d24b27dd70d6e69e"
+                "url": "https://github.com/aOelschlager/islandora_defaults.git",
+                "reference": "78c63a397433405cbc2d7f85e7d0ced39f2356a0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Islandora/islandora_defaults/zipball/f66651bedcea6378604fa103d24b27dd70d6e69e",
+                "url": "https://api.github.com/repos/aOelschlager/islandora_defaults/zipball/78c63a397433405cbc2d7f85e7d0ced39f2356a0",
                 "reference": "f66651bedcea6378604fa103d24b27dd70d6e69e",
                 "shasum": ""
             },
