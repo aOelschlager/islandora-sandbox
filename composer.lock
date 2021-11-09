@@ -8359,7 +8359,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/aOelschlager/islandora_defaults/zipball/78c63a397433405cbc2d7f85e7d0ced39f2356a0",
-                "reference": "f66651bedcea6378604fa103d24b27dd70d6e69e",
+                "reference": "78c63a397433405cbc2d7f85e7d0ced39f2356a0",
                 "shasum": ""
             },
             "require": {
@@ -8393,7 +8393,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git",
-                "reference": "5c55ecbccf51a13a4ac5d69232877a22d6329c3e"
+                "reference": "6e37c279285f9c03a909d5e47c6a75062742a822"
             },
             "require": {
                 "asm89/stack-cors": "^1.3",
