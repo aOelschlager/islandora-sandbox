@@ -107,6 +107,13 @@
         "sort-packages": true
     },
     "extra": {
+        "enable-patching": true,
+        "patches":
+        {
+            "drupal/core": {
+                "#3225381 - Fixed undefined index notice in config export screen": "https://www.drupal.org/files/issues/2021-09-08/drupal-3225381-11.patch"
+            }
+        },
         "drupal-scaffold": {
             "locations": {
                 "web-root": "web/"
