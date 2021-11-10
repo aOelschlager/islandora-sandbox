@@ -8370,6 +8370,7 @@
                 "islandora/islandora": "^2",
                 "islandora/openseadragon": "^2"
             },
+            "default-branch": false,
             "type": "drupal-module",
             "notification-url": "https://packagist.org/downloads/",
             "license": [
