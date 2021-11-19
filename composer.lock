@@ -9552,11 +9552,11 @@
         },
         {
             "name": "islandora/islandora_install_profile_demo",
-            "version": "dev-bd-d9-update",
+            "version": "dev-bd-d9-update-dev",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Islandora-Devops/islandora_install_profile_demo.git",
-                "reference": "56547e522efe976e97908d0510e82fd37437bab9"
+                "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git",
+                "reference": "f821e9566fc8273b7e3eb8b34ae9d23b191d898e"
             },
             "require": {
                 "composer/installers": "^1.9",
@@ -17084,7 +17084,14 @@
             }
         }
     ],
-    "aliases": [],
+    "aliases": [
+        {
+            "package": "islandora/islandora_install_profile_demo",
+            "version": "dev-bd-d9-update-dev",
+            "alias": "dev-bd-d9-update",
+            "alias_normalized": "dev-bd-d9-update"
+        }
+    ],
     "minimum-stability": "dev",
     "stability-flags": {
         "islandora/islandora_install_profile_demo": 20
