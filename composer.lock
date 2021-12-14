@@ -9486,16 +9486,16 @@
         },
         {
             "name": "islandora/islandora_base_theme",
-            "version": "dev-bd-d9-updates",
+            "version": "dev-main",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Islandora-Devops/islandora_base_theme.git",
-                "reference": "33ead4ecefab609aaf36b09ce7922329c0843407"
+                "reference": "b818d9ec07bc5d191de8ca8f5250ae4fcfb20da7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Islandora-Devops/islandora_base_theme/zipball/33ead4ecefab609aaf36b09ce7922329c0843407",
-                "reference": "33ead4ecefab609aaf36b09ce7922329c0843407",
+                "url": "https://api.github.com/repos/Islandora-Devops/islandora_base_theme/zipball/b818d9ec07bc5d191de8ca8f5250ae4fcfb20da7",
+                "reference": "b818d9ec07bc5d191de8ca8f5250ae4fcfb20da7",
                 "shasum": ""
             },
             "require": {
@@ -9552,11 +9552,11 @@
         },
         {
             "name": "islandora/islandora_install_profile_demo",
-            "version": "dev-bd-d9-update-dev",
+            "version": "dev-bd-d9-update",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git",
-                "reference": "abab227ba84e70234f978d9f71f1952027f15e40"
+                "reference": "f7665982ecbeab6605f634b5c1058b16d1a436d7"
             },
             "require": {
                 "composer/installers": "^1.9",
@@ -9628,9 +9628,9 @@
                 "drush/drush": "^10.5",
                 "islandora-rdm/islandora_fits": "dev-8.x-1.x",
                 "islandora/controlled_access_terms": "2.x-dev",
-                "islandora/islandora_base_theme": "dev-bd-d9-updates",
+                "islandora/islandora_base_theme": "dev-main",
                 "islandora/islandora_defaults": "2.x-dev",
-                "islandora/islandora_starter_theme": "dev-bd-d9-update",
+                "islandora/islandora_starter_theme": "dev-main",
                 "islandora/openseadragon": "2.x-dev",
                 "mglaman/drupal-check": "1.1.10",
                 "mjordan/islandora_workbench_integration": "^1.0",
@@ -9666,20 +9666,20 @@
         },
         {
             "name": "islandora/islandora_starter_theme",
-            "version": "dev-bd-d9-update",
+            "version": "dev-main",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Islandora-Devops/islandora_starter_theme.git",
-                "reference": "b7cf4ca67aa8ec7ccbefd994932ea206581a2d6c"
+                "reference": "2d450c835e3a461856254b84b74585e63bff7768"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Islandora-Devops/islandora_starter_theme/zipball/b7cf4ca67aa8ec7ccbefd994932ea206581a2d6c",
-                "reference": "b7cf4ca67aa8ec7ccbefd994932ea206581a2d6c",
+                "url": "https://api.github.com/repos/Islandora-Devops/islandora_starter_theme/zipball/2d450c835e3a461856254b84b74585e63bff7768",
+                "reference": "2d450c835e3a461856254b84b74585e63bff7768",
                 "shasum": ""
             },
             "require": {
-                "islandora/islandora_base_theme": "dev-bd-d9-updates"
+                "islandora/islandora_base_theme": "dev-main"
             },
             "type": "drupal-theme",
             "license": [
@@ -17087,9 +17087,9 @@
     "aliases": [
         {
             "package": "islandora/islandora_install_profile_demo",
-            "version": "dev-bd-d9-update-dev",
-            "alias": "dev-bd-d9-update",
-            "alias_normalized": "dev-bd-d9-update"
+            "version": "dev-bd-d9-update",
+            "alias": "dev-main",
+            "alias_normalized": "dev-main"
         }
     ],
     "minimum-stability": "dev",
