@@ -9635,7 +9635,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git",
-                "reference": "aeaef1aa06d4451af395ee43207ed2aae02df953"
+                "reference": "0fe9b132c0639951ce2a417d506dd6c25d67c69f"
             },
             "require": {
                 "composer/installers": "^1.9",
@@ -9750,12 +9750,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_starter_theme.git",
-                "reference": "43e91d0d09ff8650bf2005136e653e75f5415356"
+                "reference": "c1d6773275f1c48061daff1a079282f4a0993338"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aOelschlager/islandora_starter_theme/zipball/43e91d0d09ff8650bf2005136e653e75f5415356",
-                "reference": "43e91d0d09ff8650bf2005136e653e75f5415356",
+                "url": "https://api.github.com/repos/aOelschlager/islandora_starter_theme/zipball/c1d6773275f1c48061daff1a079282f4a0993338",
+                "reference": "c1d6773275f1c48061daff1a079282f4a0993338",
                 "shasum": ""
             },
             "require": {
