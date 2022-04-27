@@ -9568,12 +9568,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_base_theme.git",
-                "reference": "654664703e7e2ad9bf2e1b76d90e3cd08cec696a"
+                "reference": "a47324b5e0bbe6bf482c16c0a1af338b1f084b93"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aOelschlager/islandora_base_theme/zipball/654664703e7e2ad9bf2e1b76d90e3cd08cec696a",
-                "reference": "654664703e7e2ad9bf2e1b76d90e3cd08cec696a",
+                "url": "https://api.github.com/repos/aOelschlager/islandora_base_theme/zipball/a47324b5e0bbe6bf482c16c0a1af338b1f084b93",
+                "reference": "a47324b5e0bbe6bf482c16c0a1af338b1f084b93",
                 "shasum": ""
             },
             "require": {
