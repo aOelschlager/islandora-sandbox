@@ -9564,15 +9564,15 @@
         },
         {
             "name": "islandora/islandora_base_theme",
-            "version": "dev-main",
+            "version": "dev-main-dev",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Islandora-Devops/islandora_base_theme.git",
+                "url": "https://github.com/aOelschlager/islandora_base_theme.git",
                 "reference": "654664703e7e2ad9bf2e1b76d90e3cd08cec696a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Islandora-Devops/islandora_base_theme/zipball/654664703e7e2ad9bf2e1b76d90e3cd08cec696a",
+                "url": "https://api.github.com/repos/aOelschlager/islandora_base_theme/zipball/654664703e7e2ad9bf2e1b76d90e3cd08cec696a",
                 "reference": "654664703e7e2ad9bf2e1b76d90e3cd08cec696a",
                 "shasum": ""
             },
@@ -9707,7 +9707,7 @@
                 "drush/drush": "^10.5",
                 "islandora-rdm/islandora_fits": "dev-8.x-1.x",
                 "islandora/controlled_access_terms": "2.x-dev",
-                "islandora/islandora_base_theme": "dev-main",
+                "islandora/islandora_base_theme": "dev-main-dev as dev-main",
                 "islandora/islandora_defaults": "2.x-dev",
                 "islandora/islandora_starter_theme": "dev-main-dev as dev-main",
                 "islandora/openseadragon": "2.x-dev",
@@ -17189,6 +17189,12 @@
         },
         {
             "package": "islandora/islandora_starter_theme",
+            "version": "dev-main-dev",
+            "alias": "dev-main",
+            "alias_normalized": "dev-main"
+        },
+        {
+            "package": "islandora/islandora_base_theme",
             "version": "dev-main-dev",
             "alias": "dev-main",
             "alias_normalized": "dev-main"
