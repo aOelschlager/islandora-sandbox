@@ -5,7 +5,7 @@
     "repositories" : [
         {
             "type": "vcs",
-            "url": "https://github.com/Islandora-Devops/islandora_base_theme.git",
+            "url": "https://github.com/aOelschlager/islandora_base_theme.git",
             "no-api": true
         },
         {
