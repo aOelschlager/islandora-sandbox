@@ -9635,7 +9635,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git",
-                "reference": "848077759f616f1178d6518ffb5bad22f6c64f74"
+                "reference": "f5b19e88d2844d9f18bda45db839d06dc990cb16"
             },
             "require": {
                 "composer/installers": "^1.9",
