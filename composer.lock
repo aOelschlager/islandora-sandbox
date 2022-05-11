@@ -9631,11 +9631,11 @@
         },
         {
             "name": "islandora/islandora_install_profile_demo",
-            "version": "dev-main-dev-test",
+            "version": "dev-main-dev-test-theme",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git",
-                "reference": "c5d0d552586befac79a5a6dda1cfd10e2b5a975a"
+                "reference": "51d49864e34620438ff258345b28566924b77eb9"
             },
             "require": {
                 "composer/installers": "^1.9",
@@ -9709,7 +9709,7 @@
                 "islandora/controlled_access_terms": "2.x-dev",
                 "islandora/islandora_base_theme": "dev-main-dev as dev-main",
                 "islandora/islandora_defaults": "2.x-dev",
-                "islandora/islandora_starter_theme": "dev-main-dev as dev-main",
+                "islandora/islandora_starter_theme": "dev-main-dev-test as dev-main",
                 "islandora/openseadragon": "2.x-dev",
                 "mglaman/drupal-check": "1.1.10",
                 "mjordan/islandora_workbench_integration": "^1.0",
@@ -9746,16 +9746,16 @@
         },
         {
             "name": "islandora/islandora_starter_theme",
-            "version": "dev-main-dev",
+            "version": "dev-main-dev-test",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_starter_theme.git",
-                "reference": "8eb6c13b4adf7461fe4ccdebb46be525a62bc13a"
+                "reference": "53724374f0c2c167456da1c11b5255a859c4e109"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aOelschlager/islandora_starter_theme/zipball/8eb6c13b4adf7461fe4ccdebb46be525a62bc13a",
-                "reference": "8eb6c13b4adf7461fe4ccdebb46be525a62bc13a",
+                "url": "https://api.github.com/repos/aOelschlager/islandora_starter_theme/zipball/53724374f0c2c167456da1c11b5255a859c4e109",
+                "reference": "53724374f0c2c167456da1c11b5255a859c4e109",
                 "shasum": ""
             },
             "require": {
@@ -17183,13 +17183,13 @@
     "aliases": [
         {
             "package": "islandora/islandora_install_profile_demo",
-            "version": "dev-main-dev-test",
+            "version": "dev-main-dev-test-theme",
             "alias": "dev-main",
             "alias_normalized": "dev-main"
         },
         {
             "package": "islandora/islandora_starter_theme",
-            "version": "dev-main-dev",
+            "version": "dev-main-dev-test",
             "alias": "dev-main",
             "alias_normalized": "dev-main"
         },
