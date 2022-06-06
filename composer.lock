@@ -9729,12 +9729,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_base_theme.git",
-                "reference": "a47324b5e0bbe6bf482c16c0a1af338b1f084b93"
+                "reference": "29614dea04f8a6b9e61162988b09b1cae8aebc55"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aOelschlager/islandora_base_theme/zipball/a47324b5e0bbe6bf482c16c0a1af338b1f084b93",
-                "reference": "a47324b5e0bbe6bf482c16c0a1af338b1f084b93",
+                "url": "https://api.github.com/repos/aOelschlager/islandora_base_theme/zipball/29614dea04f8a6b9e61162988b09b1cae8aebc55",
+                "reference": "29614dea04f8a6b9e61162988b09b1cae8aebc55",
                 "shasum": ""
             },
             "require": {
@@ -9792,11 +9792,11 @@
         },
         {
             "name": "islandora/islandora_install_profile_demo",
-            "version": "dev-main-dev-test",
+            "version": "dev-main-dev-test-update",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git",
-                "reference": "d573dddb423dd8417124a932cfdcef92e0997775"
+                "reference": "559a210da552455111d271753bf4e27d8e2cc3f7"
             },
             "require": {
                 "composer/installers": "^1.9",
@@ -9911,12 +9911,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_starter_theme.git",
-                "reference": "2a2c8f68ab6bfc3fc01f40fc1e8159ea3b2bee50"
+                "reference": "a6bb036c4ad2b37bcfbdf4d3a63ffa91bdcb2175"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aOelschlager/islandora_starter_theme/zipball/2a2c8f68ab6bfc3fc01f40fc1e8159ea3b2bee50",
-                "reference": "2a2c8f68ab6bfc3fc01f40fc1e8159ea3b2bee50",
+                "url": "https://api.github.com/repos/aOelschlager/islandora_starter_theme/zipball/a6bb036c4ad2b37bcfbdf4d3a63ffa91bdcb2175",
+                "reference": "a6bb036c4ad2b37bcfbdf4d3a63ffa91bdcb2175",
                 "shasum": ""
             },
             "require": {
@@ -17293,7 +17293,7 @@
     "aliases": [
         {
             "package": "islandora/islandora_install_profile_demo",
-            "version": "dev-main-dev-test",
+            "version": "dev-main-dev-test-update",
             "alias": "dev-main",
             "alias_normalized": "dev-main"
         },
