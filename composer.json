@@ -111,7 +111,7 @@
             },
             "file-mapping": {
                 "[web-root]/sites/default/default.settings.php": {
-                  "append": "assets/default.settings.php"
+                  "append": "assets/patches/default.settings.php"
                 }
               }
         },
