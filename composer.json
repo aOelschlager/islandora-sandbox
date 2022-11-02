@@ -108,12 +108,7 @@
         "drupal-scaffold": {
             "locations": {
                 "web-root": "web/"
-            },
-            "file-mapping": {
-                "[web-root]/sites/default/default.settings.php": {
-                  "append": "assets/patches/default.settings.php"
-                }
-              }
+            }
         },
         "installer-paths": {
             "web/core": [
