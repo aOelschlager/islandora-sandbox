@@ -9736,12 +9736,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_base_theme.git",
-                "reference": "a1f5618d3c0343910609f4a5cfcedb7ed52e565e"
+                "reference": "1665af12bb9e0045ad69307f824db04135115981"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aOelschlager/islandora_base_theme/zipball/a1f5618d3c0343910609f4a5cfcedb7ed52e565e",
-                "reference": "a1f5618d3c0343910609f4a5cfcedb7ed52e565e",
+                "url": "https://api.github.com/repos/aOelschlager/islandora_base_theme/zipball/1665af12bb9e0045ad69307f824db04135115981",
+                "reference": "1665af12bb9e0045ad69307f824db04135115981",
                 "shasum": ""
             },
             "require": {
