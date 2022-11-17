@@ -9745,7 +9745,7 @@
                 "shasum": ""
             },
             "require": {
-                "drupal/bootstrap_barrio": "5.5.x-dev",
+                "drupal/bootstrap_barrio": "^5.5",
                 "drupal/bootstrap_sass": "5.x-dev"
             },
             "default-branch": true,
@@ -11087,16 +11087,16 @@
         },
         {
             "name": "mjordan/islandora_workbench_integration",
-            "version": "v1.0.0",
+            "version": "dev-main",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mjordan/islandora_workbench_integration.git",
-                "reference": "3499f4f66c210801af1a5603d24a1b24b813ca07"
+                "reference": "686ede7030a50a3323c1c65a4cc14bd640f01afc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mjordan/islandora_workbench_integration/zipball/3499f4f66c210801af1a5603d24a1b24b813ca07",
-                "reference": "3499f4f66c210801af1a5603d24a1b24b813ca07",
+                "url": "https://api.github.com/repos/mjordan/islandora_workbench_integration/zipball/686ede7030a50a3323c1c65a4cc14bd640f01afc",
+                "reference": "686ede7030a50a3323c1c65a4cc14bd640f01afc",
                 "shasum": ""
             },
             "type": "drupal-module",
