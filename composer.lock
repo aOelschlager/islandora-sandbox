@@ -9733,7 +9733,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aOelschlager/islandora_base_theme/zipball/654664703e7e2ad9bf2e1b76d90e3cd08cec696a",
+                "url": "https://api.github.com/repos/aOelschlager/islandora_base_theme/zipball/a1f5618d3c0343910609f4a5cfcedb7ed52e565e",
                 "reference": "a1f5618d3c0343910609f4a5cfcedb7ed52e565e",
                 "shasum": ""
             },
@@ -9756,12 +9756,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Islandora/islandora_defaults.git",
-                "reference": "db7a508d56723d06be1e81f235a75382098c92e7"
+                "reference": "4ade118284f776dedea9df40cd70acf3f484c4ea"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Islandora/islandora_defaults/zipball/db7a508d56723d06be1e81f235a75382098c92e7",
-                "reference": "db7a508d56723d06be1e81f235a75382098c92e7",
+                "url": "https://api.github.com/repos/Islandora/islandora_defaults/zipball/4ade118284f776dedea9df40cd70acf3f484c4ea",
+                "reference": "4ade118284f776dedea9df40cd70acf3f484c4ea",
                 "shasum": ""
             },
             "require": {
