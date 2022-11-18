@@ -10143,7 +10143,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git",
-                "reference": "9cbf2ec337180d75f14c8c17b6bc3e69ecdeadf7"
+                "reference": "1eb7d50eca245b253f004e9bbf00eaf08d7bc137"
             },
             "require": {
                 "composer/installers": "^1.9",
@@ -10175,6 +10175,8 @@
                 "drupal/features": "^3.11",
                 "drupal/file_download_link": "^1.1",
                 "drupal/fixed_block_content": "^1.1",
+                "drupal/flysystem": "^2.0@alpha",
+                "drupal/flysystem_s3": "^2.0@RC",
                 "drupal/fontawesome": "^2.17",
                 "drupal/form_options_attributes": "^1.2",
                 "drupal/formatter_suite": "^1.3",
