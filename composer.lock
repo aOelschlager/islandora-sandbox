@@ -10139,11 +10139,11 @@
         },
         {
             "name": "islandora/islandora_install_profile_demo",
-            "version": "dev-main-dev-no-install",
+            "version": "dev-main-dev-first-install",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aOelschlager/islandora_install_profile_demo.git",
-                "reference": "718e516bf23647b9da49a04502d9d4367c630ad1"
+                "reference": "ad3f34d20f59823b316b1e10802afcb6a7d68b89"
             },
             "require": {
                 "composer/installers": "^1.9",
@@ -17766,7 +17766,7 @@
     "aliases": [
         {
             "package": "islandora/islandora_install_profile_demo",
-            "version": "dev-main-dev-no-install",
+            "version": "dev-main-dev-first-install",
             "alias": "dev-main",
             "alias_normalized": "dev-main"
         },
